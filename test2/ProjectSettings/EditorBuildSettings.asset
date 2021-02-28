@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/dronchasingscene.unity
+    guid: eecb4bcfb7b475b4f87a867e308cbf17
+  - enabled: 1
+    path: Assets/Scenes/level complete.unity
+    guid: 54145b7c5f23bf048a9b560b6adbb682
+  m_configObjects: {}
